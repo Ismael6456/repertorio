@@ -1,5 +1,7 @@
-streamlit
-regex
+numpy
+pandas
 demoji
-plotly
+matplotlib
 wordcloud
+streamlit
+Pillow
