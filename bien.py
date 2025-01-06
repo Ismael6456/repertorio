@@ -15,7 +15,7 @@ from collections import Counter
 st.title('Análisis del Chat de Yarilin e Ismaelin')
 
 # Ruta fija del archivo de WhatsApp
-RUTA_CHAT = '/Users/ismaelin/nuevoo/resources/chat_whatsapp.txt'  # Ajusta esta ruta según tu archivo
+RUTA_CHAT = 'resources/chat_whatsapp.txt'  # Ajusta esta ruta según tu archivo
 
 # ---------------- FUNCIONES NECESARIAS ----------------
 def inicia_con_fecha_y_hora(linea):
